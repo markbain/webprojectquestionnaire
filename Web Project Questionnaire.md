@@ -10,7 +10,12 @@ This form is designed to be completed on a computer, rather than printed, which 
 
 ----------
 
+## Budget & timescale ##
+*This information will help me decide if I am available to work on your project*
 
+- How much to you have available to invest in this project?
+- When would you like to start the project?
+- Do you have a deadline for completion?
 
 ## About you (& your existing site, if you have one) ##
 *Tell me about you/your business*
@@ -23,7 +28,6 @@ This form is designed to be completed on a computer, rather than printed, which 
 - What do you think of their web presence? (i.e. website, Facebook page, etc.)
 - Which of their ideas would you like to steal?
 - Which of their mistakes would you like to avoid?
-- When would you realistically like to launch?
 
 
 
